@@ -50,6 +50,7 @@ spec:
           value: "#34577c"
 
 --
+
 apiVersion: v1
 kind: Service
 metadata:
